@@ -12,6 +12,7 @@ ogImage:
 
 This congee recipe is based on my and Sherilyn's family recipes, adjusted over the years to suit our tastes. It's a mix of Taiwanese and and Chinese traditions for congee, built on a foundation of strong umami with fried shallots, groud pork shoulder, preserved egg, and chicken broth, and balanced with crisp and fragrant pickled mustard stem and optionally floral gamcai to round out the flavors with some acid and funk.
 
+The photo at the top is an AI generated one and is not representative of the final results.
 ## Ingredients
 
 * rice -  _1 cup_
@@ -38,7 +39,7 @@ This congee recipe is based on my and Sherilyn's family recipes, adjusted over t
 > _Optionally, marinade the pork ahead of time by adding cooking wine, dark soy, and light soy, stirring it, and letting it sit covered in the fridge for 30 minutes._
 
 > _Also, you can fry the shallots first until golden brown, remove, then cook the pork in the shallot oil._
-3. Clear out a space center of pan for shallots. In the pork fat, fry the shallots until golden brown. Remove pork and shallots from oil when cooked through -- the timing may be different.
+3. Clear out a space center of pan for shallots. In the pork fat, fry the shallots until golden brown. Remove pork and shallots from oil when cooked through. The timing for the pork and shallots may be different.
 4. When rice is almost done, stir in pork, fried shallots, white part of your green onions, chopped preserved egg, chopped pickled mustard stem, and ginger. Only the ginger, green onion, and pork are important -- mix and match the rest.
 5. Top with your choice of pickled mustard stem, green part of the green onion, sliced preserved egg, chili oil, sesame oil, and/or sesame seeds.
 
@@ -48,7 +49,7 @@ This congee recipe is based on my and Sherilyn's family recipes, adjusted over t
 
 Rice is the bulk of your congee, and putting steamed rice in water does not taste good -- you want the stuff around the congee to have some flavor and texture too, which means that you need to a. use starchy rice, and b. get the starches into the soup.
 
-Starchy rices include almost all Asian varieties of rice. Sushi rice or sweet rice is usually okay. Avoid long grain rices like Basmati unless you're going for rice in water. To get starch out of your rice, either cook it for 90 minutes or break it up -- either with your favorite cooking instrument (or rock) or by freezing it with equal parts water.
+Starchy rices include almost all Asian varieties of rice. Sushi rice or sweet rice is usually okay. Avoid long grain rices like Basmati unless you're going for a rice-in-water texture. To get starch out of your rice, either cook it for 90 minutes or break it up -- either with your favorite cooking instrument (or rock) or by freezing it with equal parts water.
 
 ### Broth or Water
 
@@ -56,16 +57,16 @@ Chicken broth or tap water with boullion works pretty well here. Chemically dist
 
 ### Shallots
 
-Shallots are 69 cents each at Ralphs, but $2 a pound at 99 Ranch or Asian supermarkets. Get them at Asian supermarkets if you can -- they're significantly cheaper and you can use them anywhere you want onion-y or garlic flavors.
+Shallots are 69 cents each at Ralphs, but $2 a pound at 99 Ranch or Asian supermarkets. Get them at Asian supermarkets if you can -- they're significantly cheaper and you can use them anywhere you'd use onion or garlic.
 
 ### Ground Pork
 
-You can get this either at Trader Joes or 99. If you go to 99, don't get the pre-ground pork. It's gross and it's been sitting there all day, if not 2 days. Ask if they can grind up a piece of pork butt (it's pork shoulder).
+You can get this either at Trader Joes or 99. If you go to 99, don't get the pre-ground pork. It's gross and it's been sitting there all day, if not multiple days. Ask if they can grind up a piece of pork butt (it's pork shoulder).
 
 ### Preserved Egg
 
-You want the one that's black colored, not the salted duck eggs. I've found that preserved egg is off putting for many non-Asian people, 
+You want the one that's black colored, not the salted duck eggs. I've found that preserved egg is off putting for many non-Asian people. 
 
 ### Chili Oil
 
-Lao gan ma, which is fried fermented soy beans in chili oil, is always good -- you can search up pictures of the jar online and look for it in the canned section of your local Asian supermarket.
+Lao gan ma, which is fried fermented soy beans in chili oil, is always good -- you can search up pictures of the jar online and look for it in the canned section of your local Asian supermarket. If you want to go higher end, I usually use fragrant chili oil.
