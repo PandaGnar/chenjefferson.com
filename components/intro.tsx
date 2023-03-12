@@ -7,7 +7,7 @@ const Intro = () => {
         Hi. I'm Jeff.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Welcome to my blog.
+        I'll write this blog... eventually.
       </h4>
     </section>
   )
