@@ -10,7 +10,7 @@
 }
 
 .markdown p {
-  @apply indent-12 my-4;
+  @apply indent-8 my-4;
 }
 
 .markdown ul {
@@ -19,6 +19,10 @@
 
 .markdown ol {
   @apply list-decimal my-2;
+}
+
+.markdown a {
+  @apply underline;
 }
 
 .markdown blockquote {

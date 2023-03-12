@@ -11,21 +11,21 @@ const Footer = () => {
           </h3>
           <div className="flex flex-col lg:flex-row justify-center lg:justify-end items-center lg:pl-4 lg:w-1/2">
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href="https://www.linkedin.com/in/chenjefferson/"
               className="mx-3 font-bold hover:underline"
             >
               LinkedIn
             </a>
-            |
+            <div className="hidden lg:inline-block">|</div>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href="https://www.instagram.com/jeffwilliamchen/"
               className="mx-3 font-bold hover:underline"
             >
               Instagram
             </a>
-            |
+            <div className="hidden lg:inline-block">|</div>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href="https://github.com/PandaGnar"
               className="mx-3 font-bold hover:underline"
             >
               GitHub
