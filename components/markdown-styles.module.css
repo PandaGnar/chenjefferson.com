@@ -10,7 +10,7 @@
 }
 
 .markdown p {
-  @apply indent-8;
+  @apply indent-12 my-4;
 }
 
 .markdown ul {

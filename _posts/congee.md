@@ -68,6 +68,6 @@ You want the one that's black colored, not the salted duck eggs.
 ### Chili Oil
 
 Lao gan ma is always good -- you can search up pictures of the jar online.
-## Fun Facts
+## Aside
 
 I generated the banner page with AI as I'd made 4 batches of congee recently to iterate on this recipe and was too burnt out to make a new one, and after eating congee for 5 meals straight Sherilyn had banned me from making congee as well for the next week. I will replace the banner photo if and when I get the chance.
